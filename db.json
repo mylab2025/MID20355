@@ -1,0 +1,29 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "DC24V-RELAY-8A-230V",
+        "PN": "DSP1a-DC24V-R",
+        "MF": "PANASONIC"
+      },
+      "MID": "MID20355",
+      "MD": "• Power types added to DS relay series\r\n• High switching capacity:\r\n1a: 8 A 250 V AC /\r\n1a1b, 2a: 5 A 250 V AC\r\n• High sensitivity: 190 mW pick-up\r\npower\r\n• High contact welding resistance\r\n• Latching types available\r\n• High breakdown voltage 3,000 Vrms\r\nbetween contacts and coil 1,000\r\nVrms between open contacts\r\nMeeting FCC Part 68\r\n• Sealed types are standard",
+      "MT": "Electronic Material",
+      "MQNT": 8,
+      "MCost": 579.22,
+      "MQATG": "#CLASS_0",
+      "ML": "110",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20355%2Fmain%2FDSP1a-DC24V-R.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20355/main/IMG_20261109_103725.jpg",
+        "https://raw.githubusercontent.com/mylab2025/MID20355/main/IMG_20261109_103743.jpg"
+      ]
+    }
+  ]
+}
